@@ -1,6 +1,6 @@
 # flutter_first_complete_project
 
-A new Flutter project.
+A basic quiz mobile application project using Flutter and Dart.
 
 ## Getting Started
 
